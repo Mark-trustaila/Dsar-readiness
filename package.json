@@ -1,8 +1,8 @@
 {
-  "name": "locs23-assessment",
+  "name": "ldsar-readiness-assessment",
   "version": "1.0.0",
   "private": true,
-  "description": "LOCS:23 Readiness Assessment Tool by AiLA",
+  "description": "dsar-readiness-assessment Tool by AiLA",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
