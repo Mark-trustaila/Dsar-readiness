@@ -1,1 +1,1 @@
-# Dsar-readiness reed me
+# Dsar-readiness read me
